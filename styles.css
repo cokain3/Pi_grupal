@@ -1,0 +1,174 @@
+.header {
+    background-image: url(../img/img_fondo.png);
+    height:50rem;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+
+.nav_seccion{
+    text-align: center;
+    margin-top: 240px;
+    font-size: 30px;
+    font-family: fantasy;
+}
+
+.nav_seccion_m{
+    margin-right: 250px;
+    padding: 5px 20px;
+    border: 2px solid #111111;
+}
+
+.nav_seccion_m:hover{
+    margin-right: 245px;
+    font-size: 30px;
+    padding: 8px 23px;
+    border: 2px solid #fed7aa;
+    transition: 1s;
+
+}
+
+
+
+.nav_seccion_h{
+    margin-left: 80PX;
+    padding: 5px 20px;
+    border: 2px solid #111111;
+}
+
+.nav_seccion_h:hover{
+    font-size: 30px;
+    padding: 8px 23px;
+    border: 2px solid #fed7aa;
+    transition: 1s;
+
+}
+
+.footer{
+    display: inline-flex;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: #f8fafc;
+
+}
+
+.creadores{
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+.trabajo{
+    margin-left: 100px;
+}
+
+.redes_sociales{
+    margin-left: 150px;
+}
+
+.redes{
+    display: inline-flex;
+}
+
+.li_redes{
+    margin-left: 8px;
+    margin-top: 5px;
+}
+
+.li_redes:hover{
+    color: #fed7aa;
+    transition: 0.5s;
+}
+
+
+.copy{
+    display: block;
+    text-align: center;
+    margin-left: 40px;
+    margin-right: 40px;
+    border-top: 0.5px solid #cccaca;
+}
+
+.nav_mujer{
+    background-image: url(../img/collage_1.png);
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 50px;
+    color: #fff;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.nav_ul_mujer{
+    display: inline-flex;
+    text-align: center;
+    padding: 30px;
+
+}
+
+.li_nav_m {
+    margin-left: 50px;
+    margin-right: 30px;
+}
+
+.li_nav_m_2{
+    margin-left: 100px;
+    margin-right: 50px;
+}
+
+.li_nav_m_3{
+    margin-left: 100px;
+    margin-right: 50px;
+}
+
+.li_nav_m_4 {
+    margin-left: 100px;
+    margin-right: 50px;
+}
+
+.nav_hombre{
+    background-image: url(../img/collageh.jpeg);
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 50px;
+    color: #f97316;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+
+
+.nav_ul_hombre{
+    display: inline-flex;
+    text-align: center;
+    padding: 30px;
+
+}
+
+.li_nav_h {
+    margin-left: 50px;
+    margin-right: 30px;
+}
+
+
+.li_nav_h_2{
+    margin-left: 100px;
+    margin-right: 50px;
+}
+
+.li_nav_h_3{
+    margin-left: 100px;
+    margin-right: 50px;
+}
+
+.li_nav_h_4 {
+    margin-left: 100px;
+    margin-right: 50px;
+}
